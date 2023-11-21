@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700510238 source:c:\safwan\oop\basic1stoop\main.cpp
+	<iostream>
+	"include\Student.h"
+
+1700508113 source:c:\safwan\oop\basic1stoop\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1700508113 c:\safwan\oop\basic1stoop\include\student.h
+
